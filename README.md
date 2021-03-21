@@ -10,3 +10,6 @@ Descrições de Tecnologias utilizadas
 - O banco de dados que é utilizado é o SQLite que é builded pelo Docker.
 - Para o Frontend é utilizado o React para Web e para mobile o React Native.
 
+<img src="./frontend/src/assets/login.png" />
+<img src="./frontend/src/assets/register.png" />
+
